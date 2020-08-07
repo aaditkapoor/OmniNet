@@ -3,3 +3,4 @@ I am a big fan of the Ben 10 Series and I have always wondered why Ben's Omnitri
 # Dataset
 https://www.kaggle.com/shiddharthsaran/ben-10-dataset
 # Medium Article
+https://medium.com/@aaditkapoor/omninet-if-bens-omnitrix-had-a-better-machine-learning-artificial-intelligence-inbuilt-70dcb321be79
